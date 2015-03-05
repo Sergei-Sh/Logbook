@@ -1,3 +1,4 @@
+//logbook.h
 class Logbook{
 public:
 	// Constructor
