@@ -11,9 +11,7 @@ public:
 private:
 	bool isLeapYear() const;
 	// Data members
-	int logMonth,     
-		logYear,     
-		logentries[31];  
+	int logMonth, logYear, logentries[31];  
 };
 
 Logbook::Logbook(int month, int year)
